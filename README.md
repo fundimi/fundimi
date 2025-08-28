@@ -1,16 +1,21 @@
-## Hi there 👋
+# fundimi is arrived
 
-<!--
-**fundimi/fundimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech Enthusiast • Computer Science • Freelancer**
 
-Here are some ideas to get you started:
+> "A negligência promove a autossuficiência." -
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About me
+I'm Moses, Computer Science and Law student. 
+Motivated by technological innovations, always focused on clean design, performance and user experience. 
+I long for difficult challenges.
+
+
+## ⚡ Technologies 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark&perline=5" width="400"alt="Skills Icons"/>
+</p>
+
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=fundimi&show_icons=true&theme=radical"
+</p>
