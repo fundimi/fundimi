@@ -12,10 +12,8 @@ I long for difficult challenges.
 
 ## ⚡ Technologies 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,java,py&theme=dark&perline=5" width="400"alt="Skills Icons"/>
+  on it...
 </p>
 
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fundimi&show_icons=true&theme=radical"
-</p>
+
