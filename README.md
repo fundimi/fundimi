@@ -1,19 +1,33 @@
-# fundimi is arrived
+# Hi, I'm Moisés Bernardes 👋
 
-**Tech Enthusiast • Computer Science • Freelancer**
+**Computer Science student focused on Python, Back-end Development and Data**
 
-> "A negligência promove a autossuficiência." -
+I'm currently studying Computer Science at the Federal University of Catalão (UFCAT). I am building a solid foundation in software development, databases, data analysis and cybersecurity.
 
-## 🚀 About me
-I'm Moses, Computer Science and Law student. 
-Motivated by technological innovations, always focused on clean design, performance and user experience. 
-I long for difficult challenges.
+I have been practicing Python, SQL, SQLite, Flask, Pandas and REST APIs through academic projects, practical labs and personal studies. My current focus is on building organized, reliable and useful applications while improving my skills through hands-on projects.
 
+I am looking for an internship or entry-level opportunity in technology, where I can apply my knowledge, learn from experienced professionals and contribute to real-world projects.
 
-## ⚡ Technologies 
-<p align="center">
-  on it...
+## 🎯 Areas of interest
+
+- Back-end Development
+- Web Applications
+- Databases
+- Data Analysis
+- Data Engineering
+- Automation with Python
+- Cybersecurity applied to software development
+
+## 🛠️ Tech stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,sqlite,postgres,git,github,html,css,js,vscode" />
 </p>
 
+## 🚀 Currently learning
 
-
+- Flask for back-end development
+- REST API development
+- SQL and relational databases
+- Data analysis with Pandas
+- Software testing and code quality
