@@ -1,6 +1,6 @@
 # Hi, I'm Moisés Bernardes 👋
 
-**Computer Science student focused on Python, Back-end Development and Data**
+**Computer Science student focused on quality, integrity, and scalable code**
 
 I'm currently studying Computer Science at the Federal University of Catalão (UFCAT). I am building a solid foundation in software development, databases, data analysis and cybersecurity.
 
